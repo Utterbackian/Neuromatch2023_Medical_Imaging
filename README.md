@@ -19,3 +19,15 @@ To test our hypothesis, we analyzed pre-existing EEG data ranging from 5 to 95 h
 ## List of resources
 
 [Link to filtered data](https://drive.google.com/file/d/1zUs8IQkTuepAQ_lqJA09lfo9nylmSuyL/view)
+
+## References
+
+Brain2Image: Converting Brain Signals into Images. [(Paper)](https://doi.org/10.1145/3123266.3127907)
+
+Deep Learning Human Mind for Automated Visual Classification. [(Paper)](https://doi.org/10.48550/arXiv.1609.00344)
+
+DreamDiffusion: Generating High-Quality Images from Brain EEG Signals. [(Paper)](https://doi.org/10.48550/arXiv.2306.16934) [(Github)](https://github.com/bbaaii/DreamDiffusion)
+
+EEG2IMAGE: Image Reconstruction from EEG Brain Signals. [(Paper)](https://doi.org/10.48550/arXiv.2302.10121) [(Github)](https://github.com/prajwalsingh/EEG2Image/tree/main)
+
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. [(Paper)](https://doi.org/10.48550/arXiv.1511.06434)
